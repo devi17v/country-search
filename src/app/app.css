@@ -1,0 +1,66 @@
+h1 {
+  text-align: center;
+}
+h3 {
+  padding: 30px;
+  text-align: center;
+}
+.title-wrapper {
+  font-weight: bold;
+}
+.country-details {
+  max-width: 25rem;
+  min-width: 25rem;
+  text-align: center;
+  margin: 0.5rem;
+  padding: 2rem;
+  border-radius: 0.2rem;
+  background: #fff;
+  box-shadow: 5px 3px 3px #ddd;
+  display: inline-block;
+}
+.diplay-all {
+  background: #f0f0f0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  justify-items: center;
+  margin: 1rem 0 3rem;
+}
+.flag-image {
+  height: 12rem;
+  width: 20rem;
+  text-align: center;
+  margin: auto;
+}
+img {
+  border-style: none;
+  height: 150px;
+  box-shadow: 5px 3px 3px #ccc;
+}
+
+.details {
+  padding: 10px;
+  margin: 15px;
+}
+.search-bar {
+  color: orange;
+  width: 50%;
+  height: 5rem;
+  margin: 3rem auto;
+  text-indent: 2rem;
+  outline: none;
+  border: 0.2rem solid #f8e7e7;
+  font-size: 2rem;
+  border-radius: 3rem;
+  background: #faf6f6;
+}
+input {
+  min-width: 250px;
+  padding-left: 10px;
+  height: 5rem;
+  border: 0px;
+  background: transparent;
+  width: 90%;
+  font-size: 32px;
+}
